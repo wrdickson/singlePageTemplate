@@ -47,4 +47,4 @@ Temporary Items
 .apdisk
 
 # wrdickson additions
-/node_modules/*
+/node_modules/**
